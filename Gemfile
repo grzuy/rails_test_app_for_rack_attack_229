@@ -48,3 +48,6 @@ end
 
 # Added at 2018-01-24 10:06:41 -0300 by gon:
 gem "rack-attack", "= 5.0.1"
+
+# Added at 2018-01-24 10:07:28 -0300 by gon:
+gem "puma", "= 3.9.1"
